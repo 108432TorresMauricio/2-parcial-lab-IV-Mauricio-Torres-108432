@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/ListadoDeSocios.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/ListadoSocioActividad.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/CuotasSocio.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Modelo/Socio.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/ModificarSocio.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/index.html</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Modelo/CuotasPagadas.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/CargarSocio.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Modelo/SocioDTO.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/EliminarActividad.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/Cuota.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/AgregarSocio.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/ModificarSocio.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/NuevaActividad.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/ListadoSocios.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/Menu.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Gestor/GestorBD.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/ListadoDeActividades.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/web/Index.jsp</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/EliminarSocio.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Modelo/Actividad.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/AgregarActividad.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Modelo/Sexo.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Modelo/SocioActividades.java</file>
+            <file>file:/C:/Users/Mauricio/Documents/NetBeansProjects/Club/src/java/Servlets/ListaSocioActividad.java</file>
+        </group>
+    </open-files>
+</project-private>
